@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whisper-base/whispertest/static/css/main.9c1fac1d.css",
+    "main.js": "/whisper-base/whispertest/static/js/main.a1680e5e.js",
+    "static/js/787.bb732eec.chunk.js": "/whisper-base/whispertest/static/js/787.bb732eec.chunk.js",
+    "index.html": "/whisper-base/whispertest/index.html",
+    "main.9c1fac1d.css.map": "/whisper-base/whispertest/static/css/main.9c1fac1d.css.map",
+    "main.a1680e5e.js.map": "/whisper-base/whispertest/static/js/main.a1680e5e.js.map",
+    "787.bb732eec.chunk.js.map": "/whisper-base/whispertest/static/js/787.bb732eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1fac1d.css",
+    "static/js/main.a1680e5e.js"
+  ]
+}
